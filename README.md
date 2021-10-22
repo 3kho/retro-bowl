@@ -1,2 +1,7 @@
-# retro-bowl
-Retro Bowl is an American football game in retro style where your purpose is to coach your team and win a prize at the end of each season. Signing and cutting players is your duty as a manager. NFL is a complex league, so it’s quite hard to get success in each season, especially in first one, so manage wisely!
+# Retro Bowl
+Retro Bowl is an American style football game created by New Star Games. Are you ready to manage your dream team into victory? Be the boss of your NFL franchise, expand your roster, take care of your press duties to keep your team and fans happy.
+
+## Play 
+
+Click the link below to play!<br>
+[https://3kh0.github.io/retro-bowl/](https://3kh0.github.io/retro-bowl/)
